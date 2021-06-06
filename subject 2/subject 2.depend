@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1622915761 source:d:\nsbm\ca\cb\subject 2\main.cpp
+	<iostream>
+	<math.h>
+	<chrono>
+	<ctime>
+	<thread>
+	<fstream>
+	<iomanip>
+	<atomic>
+
